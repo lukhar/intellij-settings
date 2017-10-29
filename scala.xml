@@ -1,0 +1,11 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_ENABLED" value="false" />
+    <option name="COMPILE_SERVER_PORT" value="53535" />
+    <option name="COMPILE_SERVER_ID" value="b8c19540-db11-4928-81b2-b47f82767c0d" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="5024" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss1000m" />
+    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
+  </component>
+</application>
